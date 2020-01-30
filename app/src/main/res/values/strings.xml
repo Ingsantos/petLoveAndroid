@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PetLoveAndroid</string>
+    <string name="petlove">PetLove</string>
+    <string name="texto">Texto informativo sobre o Pet Love</string>
 </resources>
