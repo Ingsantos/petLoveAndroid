@@ -3,7 +3,7 @@
     <color name="colorPrimary">#fdd835</color>
     <color name="colorPrimaryDark">#c6a700</color>
     <color name="colorAccent">#81d4fa</color>
-    <color name="branco">#FFFFFF</color>
-    <color name="preto">#000000</color>
+    <color name="branco">#fff</color>
+    <color name="preto">#000</color>
     <color name="background">#fff9c4</color>
 </resources>
